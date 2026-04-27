@@ -1,4 +1,4 @@
-🚀 AlgoVision - DSA Visualizer
+# 🚀 AlgoVision - DSA Visualizer
 
 Welcome to **AlgoVision**, a comprehensive and interactive Data Structures and Algorithms (DSA) visualizer! Designed to make learning algorithms intuitive and engaging, AlgoVision brings code to life through dynamic visualizations, step-by-step execution, and an integrated AI Tutor.
 
