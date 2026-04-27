@@ -5,11 +5,17 @@ Welcome to **AlgoVision**, a comprehensive and interactive Data Structures and A
 # ✨ Features
 
 Interactive Visualizations: Watch standard algorithms and data structures execute step-by-step.
+
 🤖 AI Tutor: Get intelligent, context-aware hints and explanations while you learn, powered by Google GenAI.
+
 💻 Integrated Playground: Write and test your own code directly in the browser using the Monaco Editor.
+
 🗺️ Learning Roadmap & Resources: Follow structured learning paths and access curated DSA resources.
+
 👥 Community & Profiles: Track your progress, manage settings, and engage with the learning community.
+
 🌗 Dark/Light Mode: Fully responsive and themeable UI built with modern Tailwind CSS.
+
 📊 Complexity Analysis: View real-time complexity charts for time and space analysis using Recharts and D3.
 
 # 🛠️ Tech Stack
